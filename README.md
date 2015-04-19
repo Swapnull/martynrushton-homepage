@@ -1,9 +1,9 @@
-#martynrushton.com
+# martynrushton.com
 
-##Premise
+## Premise
 This website is aimed to serve as my first point of contact when somebody searches for me. This project is the landing page that will allow redirection onto projects, blog
 
-##To Do
+## To Do
 #### Design
 - Choose a font, maybe open-sans or another google font. Install locally.
 - Title section should be 'Martyn Rushton, aka Swapnull' + a tagline.
@@ -19,4 +19,4 @@ Also mention that I am available for freelance work in this section.
 #### Google Rating
 Boost Google ratings to put this page higher when "Martyn Rushton" and "Swapnull" are searched for.
 #### Responsive
-Make it so that this site works on tablets and phones. 
+Make it so that this site works on tablets and phones.

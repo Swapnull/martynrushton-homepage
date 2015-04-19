@@ -30,7 +30,9 @@ h1{
 
 #nav-list{
   margin-left:70%;
-   display:none; /*Currently displaying none as none of the other pages are ready.*/
+  margin-top:0px;
+  padding-top:30px;
+  display:none; /*Currently displaying none as none of the other pages are ready.*/
 }
 
 .nav-item{
